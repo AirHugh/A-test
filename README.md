@@ -1,2 +1,2 @@
 # A-test
-It jiust a test 
+It just a test 
